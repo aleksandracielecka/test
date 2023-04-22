@@ -65,8 +65,7 @@ public class App
         }
         System.out.println("maximum element" + ":" + max);
         System.out.println("minimum element" + ":" + min);
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello Kasia!" );
+      
 
     }
 }
